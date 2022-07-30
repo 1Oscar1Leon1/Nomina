@@ -1,0 +1,6 @@
+Señor/a AndresLeon 
+ De documento 123456789
+ Su salario es = 1211824.0
+ Su pension es =52688.0
+ Su Salud es=52688.0
+ Dinero trabajados por dias son =1200000.0 
