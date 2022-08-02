@@ -1,6 +1,101 @@
-Señor/a AndresLeon 
- De documento 123456789
+#########################################
+ Su nombre es: AndresLeon 
+ De documento 13246789
  Su salario es = 1211824.0
  Su pension es =52688.0
  Su Salud es=52688.0
  Dinero trabajados por dias son =1200000.0 
+###########################################
+ su nombre es=Oscar AndresLeon 
+ Su número de documento es= 123456789
+ Su salario Final es = 1211824.0
+ Descuento de pension =52688.0
+ Descuento de Salud =52688.0
+ Dinero por dias trabajados son =1200000.0 
+###########################################
+ su nombre es=Oscarleon 
+ Su numero de documento es= 132456798
+ Su salario Final es = 1211824.0
+ Descuento de pension =52688.0
+ Descuento de Salud =52688.0
+ Dinero por dias trabajados son =1200000.0 
+###########################################
+ su nombre es=kevinleon 
+ Su numero de documento es= 123465798
+ Su salario Final es = 1211824.0
+ Descuento de pension =52688.0
+ Descuento de Salud =52688.0
+ Dinero por dias trabajados son =1200000.0 
+###########################################
+ su nombre es=AndresLeon 
+ Su numero de documento es= 1234655798
+ Su salario Final es = 1211824.0
+ Descuento de pension =52688.0
+ Descuento de Salud =52688.0
+ Dinero por dias trabajados son =1200000.0 
+###########################################
+ su nombre es=AndresLeon 
+ Su numero de documento es= 123456789
+ Su salario Final es = 1211824.0
+ Descuento de pension =52688.0
+ Descuento de Salud =52688.0
+ Dinero por dias trabajados son =1200000.0 
+###########################################
+ su nombre es=andresleom 
+ Su numero de documento es= 1232456789
+ Su salario Final es = 218224.0
+ Descuento de pension =9488.0
+ Descuento de Salud =9488.0
+ Dinero por dias trabajados son =120000.0 
+###########################################
+ su nombre es= AndreLEO 
+ Su numero de documento es= 1234546789
+ Su salario Final es = 1211824.0
+ Descuento de pension = 52688.0
+ Descuento de Salud = 52688.0
+ Dinero por dias trabajados son =1200000.0 
+###########################################
+ su nombre es: aNDRESLEON 
+ Su numero de documento es= 123456789
+ Su salario Final es = 475824.0
+ Descuento de pension = 20688.0
+ Descuento de Salud = 20688.0
+ Dinero por dias trabajados son =400000.0 
+###########################################
+ su nombre es: Andres
+Leon 
+ Su numero de documento es= 1213456789
+ Su salario Final es = 218224.0
+ Descuento de pension = 9488.0
+ Descuento de Salud = 9488.0
+ Dinero por dias trabajados son =120000.0 
+###########################################
+ su nombre es: Andres-Leon 
+ Su numero de documento es= 12346798
+ Su salario Final es = 1211824.0
+ Descuento de pension = 52688.0
+ Descuento de Salud = 52688.0
+ Dinero por dias trabajados son =1200000.0 
+###########################################
+ su nombre es: Andres-Moreno 
+ Su numero de documento es= 123456789
+ Su salario Final es = 1211824.0
+ Descuento de pension = 52688.0
+ Descuento de Salud = 52688.0
+ Dinero por dias trabajados son =1200000.0
+ Descuento de transporte=1317200.0 
+###########################################
+ su nombre es: Andres-Leon 
+ Su numero de documento es= 123456789
+ Su salario Final es = 1211824.0
+ Descuento de pension = 52688.0
+ Descuento de Salud = 52688.0
+ Dinero por dias trabajados son =1200000.0
+ Descuento de transporte=1317200.0 
+###########################################
+ su nombre es: Oscar-Andres 
+ Su numero de documento es= 123456789
+ Su salario Final es = 1211824.0
+ Descuento de pension = 52688.0
+ Descuento de Salud = 52688.0
+ Dinero por dias trabajados son =1200000.0 
